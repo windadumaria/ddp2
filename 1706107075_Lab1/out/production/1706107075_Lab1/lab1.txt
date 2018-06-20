@@ -1,0 +1,3 @@
+Soal 1
+1. agung.getBalance() != david.getBalance()
+2. agung.balance=1000 sama dengan agung.setBalance() karna method setBalance() sebenarnya mengerjakan perintah yang pertama. Akan tetapi perintah yang pertama tidak bisa dijalankan di main class karna variabel balance memiliki access modifier private dimana hanya class Account saja yg bisa akses variabel balance tersebut.
